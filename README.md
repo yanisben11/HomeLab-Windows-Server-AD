@@ -31,6 +31,5 @@ Mise en place d'automatisations pour standardiser le parc informatique :
 <img width="1919" height="912" alt="photos 3" src="https://github.com/user-attachments/assets/2d10a7fc-6f97-431d-8d70-b62786ee2a60" />
 <img width="1919" height="884" alt="photos 1" src="https://github.com/user-attachments/assets/8b46cba2-90a9-4fd8-aa63-f7570229fcd7" />
 
+👉 **Voir la partie Cybersécurité (Wazuh SIEM) ici : https://github.com/yanisben11/HomeLab-Wazuh-Detection.git
 
-## 🚀 Prochaines étapes
-Le lab évoluera prochainement vers un projet de **Blue Team / Cybersécurité** avec l'intégration d'un SIEM (Wazuh) pour la surveillance des logs et la détection d'intrusions.
